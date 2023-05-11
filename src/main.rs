@@ -1,4 +1,5 @@
-/* Created by Ashton Cowie and licensed under the MIT Specificatation
+/* Modified by Ashton Cowie and licensed under the MIT Specificatation
+  * Original code here: https://rust-sdl2.github.io/rust-sdl2/sdl2/?search=
  */ 
 
 
