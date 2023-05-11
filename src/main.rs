@@ -1,7 +1,4 @@
-/*
- * TODO:
- * Implement Colour changing capabilities
- * Implement Scroll interaction (Scrolling changes colour)
+/* Created by Ashton Cowie and licensed under the MIT Specificatation
  */ 
 
 
